@@ -1,0 +1,6 @@
+[
+  {"name":"Energimyndigheten","url":"https://www.energimyndigheten.se/utlysningar/","kind":"html","enabled":true},
+  {"name":"Vinnova","url":"https://www.vinnova.se/sok-finansiering/hitta-finansiering/","kind":"html","enabled":true},
+  {"name":"Formas","url":"https://formas.se/soka-finansiering/alla-utlysningar.html","kind":"html","enabled":true},
+  {"name":"EU Funding & Tenders","url":"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search","kind":"html","enabled":false}
+]
